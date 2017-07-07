@@ -1,6 +1,0 @@
-{
-  "name": "Perl-util",
-  "tagline": "Utilities (Perl scripts)",
-  "body": "perl-util (Perl scripts)\r\n\r\nThe README is used to introduce the modules and provide instructions on\r\nhow to install the modules, any machine dependencies it may have (for\r\nexample C compilers and installed libraries) and any other information\r\nthat should be provided before the modules are installed.\r\n\r\nA README file is required for CPAN modules since CPAN extracts the\r\nREADME file from a module distribution so that people browsing the\r\narchive can use it get an idea of the modules uses. It is usually a\r\ngood idea to provide version information here so that people can\r\ndecide whether fixes for the module are worth downloading.\r\n\r\nINSTALLATION\r\n\r\nFollow instructions from README for each module.\r\n\r\nDEPENDENCIES\r\n\r\nThis module requires these other modules and libraries:\r\n\r\nCheck requires from README for each module. \r\n\r\nCOPYRIGHT AND LICENCE\r\n\r\nCopyright (C) 2016 by www.frobas.com\r\n\r\nThis library is free software; you can redistribute it and/or modify\r\nit under the same terms as Perl itself, either Perl version 5.18.2 or,\r\nat your option, any later version of Perl 5 you may have available.\r\n\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
